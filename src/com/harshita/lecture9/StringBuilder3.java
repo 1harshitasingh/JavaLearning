@@ -9,7 +9,7 @@ public class StringBuilder3 {
 
         // delete the extra n
 
-        sb.delete(2, 3);
+        sb.delete(2, 4);
         System.out.println(sb);
     }
 }
