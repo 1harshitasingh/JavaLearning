@@ -36,7 +36,7 @@ public class OOPS6 {
 
         // Create a Triangle object and call its method
         Triangle triangle = new Triangle();
-        triangle.area(10, 5);  // Area of the triangle with height 10 and base 5
+        triangle.area(10, 5);
 
         // Create an EquilateralTriangle object and call its method
         EquilateralTriangle eqTriangle = new EquilateralTriangle(6);
