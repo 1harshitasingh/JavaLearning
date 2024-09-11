@@ -14,9 +14,9 @@ class Account {
 public class Bank {
     public static void main(String args[]) {
         Account a1 = new Account();
-        a1.name = "Apna College";
+        a1.name = "ABC";
         a1.setPassword("abcd");
-        a1.email = "hello@apnacollege.com";
+        a1.email = "hello@abc.com";
     }
 }
 
