@@ -2,7 +2,7 @@ package com.harshita.lecture13;
 
 import java.util.ArrayList;
 
-class ArrayLists3 {
+class ArrayLists4 {
     public static void main(String args[]) {
         ArrayList<Integer> list = new ArrayList<Integer>();
         ArrayList<String> list2 = new ArrayList<String>();
@@ -20,8 +20,8 @@ class ArrayLists3 {
         int element = list.get(0); // 0 is the index
         System.out.println(element);
 
-        // to set an element
-        list.set(1, 2);
+        // to delete an element
+        list.remove(3);
         System.out.println(list);
     }
 }
