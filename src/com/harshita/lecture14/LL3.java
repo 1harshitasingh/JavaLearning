@@ -67,13 +67,13 @@ public class LL3 {
     public static void main(String[] args) {
         LL3 list = new LL3();
 
-        // Adding elements to the list
+
         list.addFirst("is");
         list.addFirst("this");
         list.addLast("a");
         list.addLast("list");
 
-        // Printing the list
-        list.printList();  // Output: this -> is -> a -> list -> null
+
+        list.printList();
     }
 }
