@@ -13,7 +13,7 @@ class BSorting {
 
 
     public static void main(String args[]) {
-        int arr[] = {7, 8, 1, 3, 2};
+        int arr[] = {7, 8, 1, 3, 2,9};
 
 
         //bubble sort
