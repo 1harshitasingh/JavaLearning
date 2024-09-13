@@ -61,7 +61,7 @@ public class LL6 {
         linkedList.addInMiddle(3, "Fourth");  // Add at index 3
 
         // Test invalid index
-        linkedList.addInMiddle(10, "Invalid");  // Attempt to add at invalid index
+        linkedList.addInMiddle(10, "Invalid");
 
         // Print the list
         linkedList.printList();
